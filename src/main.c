@@ -20,7 +20,7 @@
 
 /* Text message in English with its language code. */
 static const uint8_t en_payload[] = {
-	'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd', '!'
+	'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd', '!', '!', '!','X' ,'Z', 'C'
 };
 static const uint8_t en_code[] = {'e', 'n'};
 
